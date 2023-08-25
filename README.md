@@ -1,3 +1,1 @@
-# AIStudy
-
-AI Study
+Defect Map Auto Classified 
